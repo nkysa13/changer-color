@@ -3,7 +3,7 @@
     background-color: #F00;
   }
 }
-@media screen and (min-width:600px){
+@media screen and (min-width:599px){
   body{
     background-color:#FF0;
   }
